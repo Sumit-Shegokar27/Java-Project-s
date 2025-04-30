@@ -14,7 +14,7 @@ public class Palindrome_Program {
 	 if (string.toLowerCase().equals(Revstring.toLowerCase())) 
 	 {
 	
-		 System.out.println(string + " is a Palindrome String.");
+		 System.out.println(string + " is a Palindrome Strings.");
 	    }
 	    else {
 	      System.out.println(string + " is not a Palindrome String.");

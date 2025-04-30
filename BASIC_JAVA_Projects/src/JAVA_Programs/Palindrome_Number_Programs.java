@@ -6,7 +6,7 @@ public class Palindrome_Number_Programs {
 		
 		int r,sum=0, temp;
 		
-		int num=565;
+		int num=464;
 		
 		temp=num;
 		

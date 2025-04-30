@@ -5,7 +5,7 @@ public class FibonacciSeriesUsingforLoop {
 	public static void main(String[] args) {
 		int n=10,firstTerm=0, secondTerm=1;
 		
-		System.out.println("Fibonacci Series till "+ n +" Terms :");
+		System.out.println("Fibonacci Series till "+ n +" Terms  :");
 		
 		for(int i=1;i<=n;++i)
 		{
