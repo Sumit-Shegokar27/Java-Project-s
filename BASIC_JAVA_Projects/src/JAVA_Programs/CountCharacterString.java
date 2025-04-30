@@ -3,7 +3,7 @@ package JAVA_Programs;
 public class CountCharacterString {
 
 	public static void main(String[] args) {
-		String string="Become Job Ready with Pramod Datta";
+		String string="Become a Job Ready with Pramod Datta";
 		
 		int count=0;
 		

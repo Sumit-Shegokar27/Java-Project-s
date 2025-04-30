@@ -10,7 +10,7 @@ public class SWAP_Number {
 		Scanner scr=new Scanner(System.in);
 		 int x= scr.nextInt();
 		 int y= scr.nextInt();
-		 System.out.println("Before Swapping the number :"+x+ " "+y);
+		 System.out.println("Before Swapping the numbers :"+x+ " "+y);
 		 
 		 x=x+y;
 		 y=x-y;

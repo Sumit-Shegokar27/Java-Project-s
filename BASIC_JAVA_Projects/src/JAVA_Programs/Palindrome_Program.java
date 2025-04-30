@@ -17,7 +17,7 @@ public class Palindrome_Program {
 		 System.out.println(string + " is a Palindrome Strings.");
 	    }
 	    else {
-	      System.out.println(string + " is not a Palindrome String.");
+	      System.out.println(string + " is not a Palindrome Strings.");
 }
 }
 }

@@ -22,7 +22,7 @@ public class Palindrome_Number_Programs {
 		}
 		else
 		{
-			System.out.println("Number is not plaindrome ");
+			System.out.println("Numbers is not plaindrome ");
 		}
 
 	}

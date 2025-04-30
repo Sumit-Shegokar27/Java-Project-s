@@ -5,7 +5,7 @@ public class Not_Palidrome_NUmber {
 	public static void main(String[] args) {
 
       int r,sum=0, temp;
-      int num=853;
+      int num=8534;
       temp=num;
       
       while(num>0)
